@@ -1,5 +1,5 @@
 # Control-Rig
-Control Rig asset makes it easy to set up a character for inverse kinematic using the Animation Rigging package. The asset is one click set up and easy to use for humanoid characters.
+Control Rig asset makes it easy to set up a character for inverse kinematic using the Animation Rigging package. The asset has one click set up and it's very easy to use for humanoid characters.
 
 [![Unity Asset Store](https://img.shields.io/badge/Unity%20Asset%20Store-Link-blue)](https://link-to-your-asset-on-the-unity-asset-store)
 
