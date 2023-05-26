@@ -12,3 +12,5 @@ Control Rig asset makes it easy to set up a character for inverse kinematic usin
 - Works Great with any proper rig (like mixamo rig).
 
 ![Screenshot 1](gitpage/ScreenShots/socialMediaImage.png)
+
+[![Alt Text](https://img.youtube.com/vi/ok9TPcgqXSQ/0.jpg)](https://www.youtube.com/watch?v=ok9TPcgqXSQ)
