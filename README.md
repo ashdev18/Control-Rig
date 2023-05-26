@@ -14,6 +14,7 @@ Control Rig asset makes it easy to set up a character for inverse kinematic usin
 ## Requirements
 - Import "Animation Rigging" Package from Unity's "Package Manager".
 - put the "Ash Assets" Folder under "Assets" folder in your project.
+- Your character rig should be set to humanoid in unity.
 
 ![socialMediaImage](https://github.com/ashdev18/Control-Rig/assets/134701989/907140b2-1c77-4060-b5cd-31f984ed7bc1)
 
