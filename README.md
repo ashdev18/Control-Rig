@@ -3,8 +3,6 @@ Control Rig asset makes it easy to set up a character for inverse kinematic usin
 
 [![Unity Asset Store](https://img.shields.io/badge/Unity%20Asset%20Store-Link-blue)](https://link-to-your-asset-on-the-unity-asset-store)
 
-A brief description of your Unity asset goes here.
-
 ## Features
 
 - One-click setup: Simply select your character and click the "Build Rig" button to create a control rig for it.
