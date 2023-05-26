@@ -1,8 +1,7 @@
 # Control-Rig
 Control Rig asset makes it easy to set up a character for inverse kinematic using the Animation Rigging package. The asset is one click set up and easy to use for humanoid characters.
-# Unity Asset Name
 
-[![Unity Asset Store](https://img.shields.io/badge/Unity%20Asset%20Store-Link-blue)](https://link-to-your-asset-on-the-unity-asset-store)
+[![Unity Asset Store](https://img.shields.io/badge/Unity%20Asset%20Store-Link-blue)](https://u3d.as/32Be)
 
 A brief description of your Unity asset goes here.
 
