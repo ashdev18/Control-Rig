@@ -19,4 +19,4 @@ https://github.com/ashdev18/Control-Rig/assets/134701989/3f2a7dfa-1be3-48c6-b5b7
 Join Discord : https://discord.com/invite/sEWwDGr
 
 ## My Assets 
-Check out my assets on unity Asset Store : https://assetstore.unity.com/publishers/52093
+Check out my assets on Unity Asset Store : https://assetstore.unity.com/publishers/52093
