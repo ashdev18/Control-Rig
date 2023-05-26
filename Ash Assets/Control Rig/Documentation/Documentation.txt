@@ -1,0 +1,6 @@
+To Setup the character with control rig, you need to have "humanoid rig" on the character and an "Animator component" attached to it.
+
+Setup : 
+1.Go to Tools and open "Control Rig Builder".
+2.Give your Character's Animator component as reference in the "Target Animator" slot of the newly opened "Control Rig Builder" window.
+3.just click on "Build Rig" and your character is ready with the control rig.
