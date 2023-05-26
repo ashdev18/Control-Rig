@@ -9,3 +9,6 @@ Control Rig asset makes it easy to set up a character for inverse kinematic usin
 - Automatic bone and constraint configuration: The asset automatically configures the bones and constraints for your character, so you don't have to do it manually.
 - Easy to use: The asset is easy to use and can be configured in just a few minutes.
 - Flexibility: This Asset is just automates some of the work that you will have to do for your character. That means its just creates rig(Animation Rigging) and assigns the contrains so its simple Animation Rigging Rig and you can easily modify it.
+- Works Great with any proper rig (like mixamo rig).
+
+![Screenshot 1](gitpage/ScreenShots/socialMediaImage.png)
