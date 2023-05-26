@@ -14,3 +14,6 @@ Control Rig asset makes it easy to set up a character for inverse kinematic usin
 ![socialMediaImage](https://github.com/ashdev18/Control-Rig/assets/134701989/907140b2-1c77-4060-b5cd-31f984ed7bc1)
 
 https://github.com/ashdev18/Control-Rig/assets/134701989/3f2a7dfa-1be3-48c6-b5b7-40e3c1bb5deb
+
+## Support
+Join Discord : https://discord.com/invite/sEWwDGr
