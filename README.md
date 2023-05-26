@@ -13,4 +13,4 @@ Control Rig asset makes it easy to set up a character for inverse kinematic usin
 
 ![Screenshot 1](gitpage/ScreenShots/socialMediaImage.png)
 
-[![Unity Game Tutorial](https://img.youtube.com/vi/ok9TPcgqXSQ/0.jpg)](https://www.youtube.com/embed/ok9TPcgqXSQ)
+https://github.com/ashdev18/Control-Rig/assets/134701989/3f2a7dfa-1be3-48c6-b5b7-40e3c1bb5deb
